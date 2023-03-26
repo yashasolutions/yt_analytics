@@ -1,0 +1,5 @@
+((nil . ((compile-command . "task build")
+         (projectile-project-compilation-cmd . "task build")
+         (projectile-project-test-cmd . "task test")
+         (projectile-project-run-cmd . "task run")
+                     )))
